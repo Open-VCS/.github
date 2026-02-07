@@ -10,6 +10,17 @@ APIs, plugin protocols, file formats, and internal architecture may change witho
 
 ---
 
+## CI Status
+
+| Component | Nightly | Dev | Stable |
+|---|---|---|---|
+| **OpenVCS (Client)** | <a href="https://github.com/Open-VCS/OpenVCS/actions/workflows/nightly.yml"><img alt="Nightly" src="https://github.com/Open-VCS/OpenVCS/actions/workflows/nightly.yml/badge.svg?branch=Dev" height="20"></a> | <a href="https://github.com/Open-VCS/OpenVCS/actions/workflows/development.yml"><img alt="Dev" src="https://github.com/Open-VCS/OpenVCS/actions/workflows/development.yml/badge.svg?branch=Dev" height="20"></a> | <a href="https://github.com/Open-VCS/OpenVCS/actions/workflows/publish-stable.yml"><img alt="Stable" src="https://github.com/Open-VCS/OpenVCS/actions/workflows/publish-stable.yml/badge.svg?branch=Dev" height="20"></a> |
+| **Core** | <a href="https://github.com/Open-VCS/OpenVCS-Core/actions/workflows/nightly.yml"><img alt="Nightly" src="https://github.com/Open-VCS/OpenVCS-Core/actions/workflows/nightly.yml/badge.svg?branch=Dev" height="20"></a> | <a href="https://github.com/Open-VCS/OpenVCS-Core/actions/workflows/ci.yml"><img alt="Dev" src="https://github.com/Open-VCS/OpenVCS-Core/actions/workflows/ci.yml/badge.svg?branch=Dev" height="20"></a> | <a href="https://github.com/Open-VCS/OpenVCS-Core/actions/workflows/release.yml"><img alt="Stable" src="https://github.com/Open-VCS/OpenVCS-Core/actions/workflows/release.yml/badge.svg?branch=Dev" height="20"></a> |
+| **SDK** | <a href="https://github.com/Open-VCS/OpenVCS-SDK/actions/workflows/nightly.yml"><img alt="Nightly" src="https://github.com/Open-VCS/OpenVCS-SDK/actions/workflows/nightly.yml/badge.svg?branch=Dev" height="20"></a> | <a href="https://github.com/Open-VCS/OpenVCS-SDK/actions/workflows/ci.yml"><img alt="Dev" src="https://github.com/Open-VCS/OpenVCS-SDK/actions/workflows/ci.yml/badge.svg?branch=Dev" height="20"></a> | <a href="https://github.com/Open-VCS/OpenVCS-SDK/actions/workflows/release.yml"><img alt="Stable" src="https://github.com/Open-VCS/OpenVCS-SDK/actions/workflows/release.yml/badge.svg?branch=Dev" height="20"></a> |
+| **Git Plugin** | <a href="https://github.com/Open-VCS/OpenVCS-Plugin-Git/actions/workflows/nightly.yml"><img alt="Nightly" src="https://github.com/Open-VCS/OpenVCS-Plugin-Git/actions/workflows/nightly.yml/badge.svg?branch=Dev" height="20"></a> | <a href="https://github.com/Open-VCS/OpenVCS-Plugin-Git/actions/workflows/ci.yml"><img alt="Dev" src="https://github.com/Open-VCS/OpenVCS-Plugin-Git/actions/workflows/ci.yml/badge.svg?branch=Dev" height="20"></a> | <a href="https://github.com/Open-VCS/OpenVCS-Plugin-Git/actions/workflows/release.yml"><img alt="Stable" src="https://github.com/Open-VCS/OpenVCS-Plugin-Git/actions/workflows/release.yml/badge.svg?branch=Dev" height="20"></a> |
+
+---
+
 ## Platform Support
 
 OpenVCS is developed with a Linux first focus.
